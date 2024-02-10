@@ -536,3 +536,14 @@ label img{
     display: block;
     color: #ffff;
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+   
+   background: transparent;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 20px;
+    background: #007AFF;
+   
+}
